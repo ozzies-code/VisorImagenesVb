@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.FrmVisor.resources
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.Resources.resources
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\VisorImagenesVb\bin\Debug\VisorImagenesVb.exe.config
+C:\Users\oswal\source\repos\VisorImagenesVb\bin\Debug\VisorImagenesVb.exe
+C:\Users\oswal\source\repos\VisorImagenesVb\bin\Debug\VisorImagenesVb.pdb
+C:\Users\oswal\source\repos\VisorImagenesVb\bin\Debug\VisorImagenesVb.xml
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.exe
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.xml
+C:\Users\oswal\source\repos\VisorImagenesVb\obj\Debug\VisorImagenesVb.pdb
